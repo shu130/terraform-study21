@@ -1,7 +1,7 @@
 
 # Terraform勉強-第21回
 
-githubリポジトリ：""
+githubリポジトリ："https://github.com/shu130/terraform-study21"
 
 ## テーマ：VPC, SecurityGroup, EC2, RDSの作成とWordPressセットアップ
 
